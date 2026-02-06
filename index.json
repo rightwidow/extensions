@@ -9414,24 +9414,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Erofus",
-    "pkg": "eu.kanade.tachiyomi.extension.en.erofus",
-    "apk": "tachiyomi-en.erofus-v1.4.3.apk",
-    "lang": "en",
-    "code": 3,
-    "version": "1.4.3",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "Erofus",
-        "lang": "en",
-        "id": "3054988613439396424",
-        "baseUrl": "https://www.erofus.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Eros Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.erosscans",
     "apk": "tachiyomi-en.erosscans-v1.4.35.apk",
